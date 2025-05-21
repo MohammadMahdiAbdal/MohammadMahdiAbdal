@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats (Pro Mode 💫)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center" width="100%">
   <tr>
