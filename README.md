@@ -39,22 +39,22 @@
 ### 📫 Contact me:
 
 <p align="center">
-  <a href="https://your-website.com">
+  <a href="https://zil.ink/honarpixel">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/mohammad_mahdi_abdal">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourinstagram">
+  <a href="https://instagram.com/mohammad_mahdi_abdal">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mohammadmahdiabdal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/yourwhatsappphonenumber">
+  <a href="https://api.whatsapp.com/message/2VICT5VFBGBUN1?autoload=1&app_absent=0">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
