@@ -15,16 +15,24 @@
 
 ---
 
-### 📊 GitHub Stats (Pro Mode 😎):
+<h2 align="center">📊 GitHub Stats (Pro Mode 💫)</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=20" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MMA780&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=20" width="47%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&custom_title=Mahdi's+GitHub+Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MMA780&theme=tokyonight&hide_border=true&border_radius=20" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=radical&border_radius=20" width="60%" />
-</p>
 
 ---
 
