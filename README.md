@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=dracula " width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=dracula " width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=tokyonight " width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=tokyonight " width="49%" />
 </p>
 
 ---
