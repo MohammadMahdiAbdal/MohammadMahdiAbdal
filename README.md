@@ -23,13 +23,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github.com/MMA780/MMA780/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
