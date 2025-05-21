@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+MohammadMahdi+Abdal;Flutter,+Dart,+VS+Code,+Figma;Mobile+App+Developer" alt="Typing SVG" />
 </h1>
 
-
 ---
 
 <div align="center">
@@ -16,21 +15,33 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats (Pro Mode 😎):
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=20" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MMA780&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=20" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=radical&border_radius=20" width="60%" />
 </p>
 
 ---
 
 ### 📫 Contact me:
+
 <p align="center">
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourinstagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
