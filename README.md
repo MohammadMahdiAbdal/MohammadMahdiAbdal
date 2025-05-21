@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats (Pro Mode 😎):
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=20" width="47%" />
@@ -42,6 +42,9 @@
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
