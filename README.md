@@ -15,7 +15,7 @@
 
 ---
 
-### 📊 GitHub Stats (Pro Mode 😎):
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=20" width="47%" />
