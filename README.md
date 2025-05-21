@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -17,13 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=compact&theme=tokyonight" width="49%" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github.com/MMA780/MMA780/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
