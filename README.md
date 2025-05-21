@@ -25,6 +25,6 @@
 ### 📊 GitHub Profile Badges:
 
 <p>
-  <img src="https://img.shields.io/github/followers/jafarm83?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jafarm83?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/MMA780?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MMA780?style=social" alt="GitHub Stars" />
 </p>
