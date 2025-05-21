@@ -9,7 +9,7 @@
 ### ⚙️ GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=dark" alt="Jafar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&locale=en&theme=dark" alt="Mahdi's GitHub Stats" />
 </p>
 
 <p align="center">
