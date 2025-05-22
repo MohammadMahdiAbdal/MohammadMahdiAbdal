@@ -20,30 +20,27 @@
 </div>
 
 ---
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&custom_title= 🔥+Mahdi's+GitHub+Stats" width="90%" />
-</h1>
-
-<br />
+<h2 align="center">📊 GitHub Stats (Pro Style)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6 " width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=15 " width="40%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&custom_title=🔥+Mahdi's+GitHub+Stats" width="95%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" width="95%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
----
-
-### 📈 نمودار فعالیت
-<a href="https://github.com/MohammadMahdiAbdal ">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahdiAbdal&theme=tokyonight&hide_border=true " width="100%" />
-</a>
 ---
 
 ### 📫 Contact me:
