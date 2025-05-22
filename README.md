@@ -29,21 +29,16 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=react&hide_border=true&border_radius=20&include_all_commits=true&hide_rank=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&line_height=30" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=react&hide_border=true&border_radius=20&include_all_commits=true&hide_rank=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="90%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
+    </td>
+  </tr>
+</table>
 
 
 ---
