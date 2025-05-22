@@ -21,18 +21,18 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats (Pro Style)</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&custom_title=🔥+Mahdi's+GitHub+Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=20" width="95%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" width="60%" />
-</p>
+<br/>
 
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&custom_title=🔥+Mahdi's+GitHub+Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" width="45%" />
+</div>
 
 ---
 
