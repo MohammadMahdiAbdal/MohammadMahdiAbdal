@@ -24,21 +24,21 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" width="90%" />
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=react&hide_border=true&border_radius=20&include_all_commits=true&hide_rank=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="90%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&hide_border=true&border_radius=20&include_all_commits=true&hide_rank=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
+</div>
+
 
 
 ---
