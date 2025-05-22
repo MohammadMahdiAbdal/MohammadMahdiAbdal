@@ -30,9 +30,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_radius=10&hide_border=false" alt="Mahdi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_radius=10&hide_border=false" alt="Mahdi's GitHub Stats" width="90%" />
 </p>
-
 
 <br/>
 
