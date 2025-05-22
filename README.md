@@ -20,85 +20,30 @@
 </div>
 
 ---
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&custom_title= 🔥+Mahdi's+GitHub+Stats" width="90%" />
+</h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mahdi's GitHub Dashboard</title>
-    <style>
-        body {
-            background: #0A1425;
-            font-family: 'Segoe UI', sans-serif;
-            padding: 20px;
-        }
-        .dashboard {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .stats-section {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 20px;
-            margin-bottom: 30px;
-        }
-        .stat-card {
-            background: #1A2436;
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 8px 30px rgba(0, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-        }
-        .stat-title {
-            color: #8B5CF6;
-            font-size: 24px;
-            margin-bottom: 15px;
-        }
-        .progress-circle {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            background: conic-gradient(#8B5CF6 0%, #8B5CF6 25%, transparent 25%, transparent 100%);
-            position: relative;
-            margin: 20px auto;
-        }
-        .progress-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            font-weight: bold;
-        }
-        .languages-section {
-            background: #1A2436;
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 8px 30px rgba(0, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-        }
-        .language-bar {
-            height: 20px;
-            border-radius: 10px;
-            margin: 10px 0;
-        }
-        /* ... (add more styles for colors and layout) */
-    </style>
-</head>
-<body>
-    <div class="dashboard">
-        <!-- Stats Section -->
-        <div class="stats-section">
-            <!-- Stat Cards -->
-        </div>
+<br />
 
-        <!-- Languages Section -->
-        <div class="languages-section">
-            <!-- Language Bars -->
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6 " width="80%" />
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=15 " width="40%" />
+</div>
+
+<br />
+
+---
+
+### 📈 نمودار فعالیت
+<a href="https://github.com/MohammadMahdiAbdal ">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMahdiAbdal&theme=tokyonight&hide_border=true " width="100%" />
+</a>
 ---
 
 ### 📫 Contact me:
