@@ -23,9 +23,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" width="85%" />
-</p>
+</div>
+
+<br/>
 
 <table align="center" width="100%">
   <tr>
@@ -37,6 +39,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
