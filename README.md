@@ -32,8 +32,9 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=🚀+Mahdi's+Code+Activity" width="95%" />
-      </td>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&hide_title=true&line_height=26" width="90%" />
+</td>
+
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut-vertical&theme=radical&hide_border=true&border_radius=20&langs_count=6" width="95%" />
       </td>
