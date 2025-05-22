@@ -26,15 +26,15 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MMA780&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&custom_title=Mahdi's+GitHub+Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&custom_title=Mahdi's+GitHub+Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=MMA780&theme=tokyonight&hide_border=true&border_radius=20" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=20" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMA780&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&langs_count=6" />
     </td>
   </tr>
 </table>
@@ -70,6 +70,6 @@
 
 ### ⭐ GitHub Badges:
 <p align="center">
-  <img src="https://img.shields.io/github/followers/MMA780?style=social" />
-  <img src="https://img.shields.io/github/stars/MMA780?style=social" />
+  <img src="https://img.shields.io/github/followers/MohammadMahdiAbdal?style=social" />
+  <img src="https://img.shields.io/github/stars/MohammadMahdiAbdal?style=social" />
 </p>
