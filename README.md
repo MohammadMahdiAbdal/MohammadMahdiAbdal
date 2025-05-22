@@ -23,8 +23,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" width="90%" />
 </div>
@@ -40,8 +38,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&langs_count=4&title_color=00ff99&text_color=ffffff" width="90%" />
 </div>
-
-
 
 ---
 
