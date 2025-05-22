@@ -20,9 +20,7 @@
 </div>
 
 ---
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-darkgreen?style=for-the-badge&logo=github&logoColor=white"/>
-</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
@@ -46,7 +44,7 @@
 
 ---
 
-### 📫 Contact me:
+<h2 align="center">📫 Contact me</h2>
 
 <p align="center">
   <a href="https://zil.ink/honarpixel">
