@@ -136,11 +136,5 @@ Example for manually adding projects:
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadMahdiAbdal/MohammadMahdiAbdal/main/footer.svg" width="100%" alt="Footer waving hand"/>
-  <!-- Make sure this footer.svg exists in your profile repository (MohammadMahdiAbdal/MohammadMahdiAbdal) -->
-  <!-- You can create a simple SVG separator using online tools or Figma/Canva -->
-</p>
-
-<p align="center">
   <em>Crafted with ❤️ and Flutter!</em>
 </p>
