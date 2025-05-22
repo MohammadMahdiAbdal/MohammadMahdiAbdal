@@ -29,9 +29,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&hide_border=true&border_radius=20&include_all_commits=true&hide_rank=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="90%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&locale=en&theme=dark" alt="Jafar's GitHub Stats" />
+</p>
+
 
 <br/>
 
