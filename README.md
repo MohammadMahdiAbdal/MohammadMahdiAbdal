@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
 </div>
 
 
