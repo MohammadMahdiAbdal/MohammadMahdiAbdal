@@ -66,7 +66,7 @@
 
 ---
 
-### ⭐ GitHub Badges:
+<h2 align="center">⭐ GitHub Badges</h2>
 <p align="center">
   <img src="https://img.shields.io/github/followers/MohammadMahdiAbdal?style=social" />
   <img src="https://img.shields.io/github/stars/MohammadMahdiAbdal?style=social" />
