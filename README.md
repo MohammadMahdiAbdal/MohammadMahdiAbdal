@@ -1,6 +1,6 @@
 ---
 
-![gitartwork](./assets/gitartwork.svg)
+![gitartwork](gitartwork.svg)
 
 ---
 
