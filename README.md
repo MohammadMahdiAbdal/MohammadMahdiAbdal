@@ -29,9 +29,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" alt="Jafar's GitHub Stats" width="90"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_radius=10&hide_border=false" alt="Mahdi's GitHub Stats" />
+</p>
 
 
 <br/>
