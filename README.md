@@ -30,13 +30,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_radius=10&hide_border=false" alt="Mahdi's GitHub Stats" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&locale=en&theme=react&title_color=00ff99&icon_color=00ff99&text_color=ffffff&border_radius=10&hide_border=false" alt="Mahdi's GitHub Stats" width="50%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=react&hide_border=true&border_radius=20&langs_count=6&title_color=00ff99&text_color=ffffff" width="50%" />
 </div>
 
 
