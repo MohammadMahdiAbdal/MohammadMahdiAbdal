@@ -20,10 +20,12 @@
 </div>
 
 ---
-<h2 align="center">📊 GitHub Stats (Pro Style)</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-darkgreen?style=for-the-badge&logo=github&logoColor=white"/>
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMahdiAbdal&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
 </div>
 
 <br/>
@@ -32,14 +34,15 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&custom_title=🔥+Mahdi's+GitHub+Stats" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&custom_title=🚀+Mahdi's+Code+Activity" width="95%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut-vertical&theme=radical&hide_border=true&border_radius=20&langs_count=6" width="95%" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
