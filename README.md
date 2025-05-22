@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&locale=en&theme=dark" alt="Jafar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?user=MohammadMahdiAbdal&theme=react&hide_border=true&border_radius=20&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffffff" alt="Jafar's GitHub Stats" width="90"/>
 </div>
 
 
