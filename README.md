@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammadMahdiAbdal&label=Profile%20Views&color=00ff00&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohammadMahdiAbdal&label=Profile%20Views&color=00ff00&style=flat-square&cache_bust=123" alt="profile views" />
 </p>
 
 ---
