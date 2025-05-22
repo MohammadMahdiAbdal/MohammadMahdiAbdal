@@ -29,9 +29,9 @@
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jafarm83&show_icons=true&locale=en&theme=dark" alt="Jafar's GitHub Stats" />
-</p>
+</div>
 
 
 <br/>
