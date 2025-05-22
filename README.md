@@ -30,11 +30,9 @@
 
 <div align="center">
   <table>
-    <tr>
       <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&hide_title=true&line_height=26" width="90%" />
-</td>
-
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdiAbdal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&hide_rank=true&line_height=25&title_color=00ff99&icon_color=00ffcc" width="92%" />
+      </td>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdiAbdal&layout=donut-vertical&theme=radical&hide_border=true&border_radius=20&langs_count=6" width="95%" />
       </td>
