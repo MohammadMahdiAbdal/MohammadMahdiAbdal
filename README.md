@@ -41,17 +41,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   
 </div>
-<br/>
-<p align="center">
-  <em>Currently exploring & learning:</em>
-</p>
-<div align="center">
-  <!-- Examples: Add what you are actually learning -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
