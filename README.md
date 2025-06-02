@@ -17,12 +17,12 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<h1 align="center">
-  Hey there! I'm MohammadMahdi Abdal, a dedicated Mobile App Developer with a deep passion for Flutter and Dart. 🚀<br/>
+<p align="center">
+  Hey there! I'm <h1>MohammadMahdi Abdal</h1>, a dedicated Mobile App Developer with a deep passion for Flutter and Dart. 🚀<br/>
   I thrive on creating elegant, intuitive, and high-performing applications.<br/>
   Constantly exploring new technologies and honing my craft. 👨‍💻 <br/>
   Let's connect and build something awesome together! ✨
-</h1>
+</p>
 
 ---
 
